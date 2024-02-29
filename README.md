@@ -3,18 +3,14 @@
 
 ### Hi there 👋
 
-## I'm Rahul Dhanola.
+## I'm Ahmed Hatem.
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
-
+- 🎓 &nbsp; Studying Computer Science & Engineering at Zagazig University .
 
 <br>
-
-
-
 
 
 
@@ -220,10 +216,5 @@
 
 
 ------
-
-[Rahul Dhanola](https://github.com/DHANOLA)
-
-Last Edited on: 09/09/2021
-
-
+[Ahmed Hatem](https://github.com/el-hatem)
 ------
