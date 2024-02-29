@@ -85,8 +85,8 @@
   <img align="center" alt="Ahmed Hatem | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~0184c8de61d7c133bc" target="_blank">
-  <img align="center" alt="Ahmed Hatem | Upwork" width="26px" src="https://www.svgrepo.com/show/331630/upwork.svg" />
-</a> &nbsp;&nbsp;
+  <img align="center" alt="Ahmed Hatem | Upwork" width="100px" src="https://www.svgrepo.com/show/331630/upwork.svg" />
+</a>
 <p>
   
 <br>
