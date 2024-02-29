@@ -24,7 +24,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="25"/>  
   &nbsp;
-<img src="https://www.svgrepo.com/show/473611/flask.svg" height="25"/>
+<img src="https://iconape.com/wp-content/files/lw/352582/png/flask-logo.png" height="25"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="25"/>
 
   </p>
