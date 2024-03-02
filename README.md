@@ -79,13 +79,13 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/el-hatem/" target="_blank">
-  <img align="center" alt="Ahmed Hatem | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Ahmed Hatem | Linkedin" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:elhaatem@gmail.com" >
-  <img align="center" alt="Ahmed Hatem | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Ahmed Hatem | Gmail" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~0184c8de61d7c133bc" target="_blank">
-  <img align="center" alt="Ahmed Hatem | Upwork" width="40px" src="https://www.svgrepo.com/show/331630/upwork.svg" />
+  <img align="center" alt="Ahmed Hatem | Upwork" width="50px" src="https://www.svgrepo.com/show/331630/upwork.svg" />
 </a>
 <p>
   
